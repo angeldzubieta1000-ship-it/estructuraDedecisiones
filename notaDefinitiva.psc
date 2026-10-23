@@ -1,4 +1,4 @@
-Algoritmo notaDefinitiva
+ Algoritmo notaDefinitiva
 	Definir nota Como Real
 	
 	escribir "ingrese Nota definitiva: "
@@ -6,7 +6,7 @@ Algoritmo notaDefinitiva
 	
 	Escribir "Su definitiva es: ", nota
 	
-	si (nota >= 4.0)  Entonces
+	si nota >= 4.0 Entonces
 		Escribir "Felicidades pasaste"
 	sino
 		Escribir "Yucas"
